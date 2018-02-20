@@ -4,13 +4,13 @@
 E-Commerce Website Using Java Spring MVC Framework in Maven.
 
 **Technologies :**
-Spring MVC
-Spring Security 
-Spring WebFlow
-Hibernate 
-Twitter Bootstrap 
-JQuery
-JSP
+Spring MVC,
+Spring Security, 
+Spring WebFlow,
+Hibernate, 
+Twitter Bootstrap,
+JQuery,
+JSP,
 Maven
 
 **Application Servicer :**
